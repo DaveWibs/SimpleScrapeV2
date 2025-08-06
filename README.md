@@ -53,7 +53,9 @@ Fandom SimpleScrape is a lightweight tool for downloading the entire plain text 
 
 Norsizu – [@norsizu](https://twitter.com/norsizu) 
 
-## Updates and fix by [@davewibs](https://x.com/DaveBotton)
+## Updates and fix by 
+
+[@davewibs](https://github.com/DaveWibs)
 
 Forks welcome!
 
