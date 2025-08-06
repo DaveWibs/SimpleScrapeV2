@@ -6,7 +6,7 @@ Fandom SimpleScrape is a lightweight tool for downloading the entire plain text 
 
 ## Features
 
-- User-friendly graphical interface
+- Basic Gradio Interface
 - Batch download of entire text content for a specific Fandom Wiki topic
 - Saves content in Markdown format
 
@@ -46,14 +46,16 @@ Fandom SimpleScrape is a lightweight tool for downloading the entire plain text 
 
 ## Version History
 
-- 0.1.0
- - Initial release
- - Basic download functionality
- - Simple graphical user interface
+- 0.2.0
+ - Fixed a silent fail due to CN characters not being installed
 
 ## Author
 
 Norsizu – [@norsizu](https://twitter.com/norsizu) 
+
+## Updates and fix by [@davewibs](https://x.com/DaveBotton)
+
+Forks welcome!
 
 ## License
 
